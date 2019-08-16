@@ -1,9 +1,5 @@
 ＃节点列表
-
 #New Jersey 
-
 ssr://MTQwLjgyLjEzLjMyOjU2Nzg5OmF1dGhfY2hhaW5fYTpub25lOnBsYWluOmNHVnVaMnA2TVRZNFFHZHRZV2xzLz9vYmZzcGFyYW09 
-
 #Tokyo
-
 ssr://NDUuMzIuMjUuMjUxOjU2Nzg5OmF1dGhfY2hhaW5fYTpub25lOnBsYWluOmNHVnVaMnA2TVRZNFFHZHRZV2xzLz9vYmZzcGFyYW09 
